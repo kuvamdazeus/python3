@@ -11,7 +11,7 @@ for testimonial in content.split("\n\n"):
 
     print("""
     <div className="col-md-12">
-        <div className="card-testimonial text-left">
+        <div className="card-testimonial text-center">
             <p>
                 {}
             </p>
